@@ -1,0 +1,2 @@
+curl -v -F project=2 -F "solution=@\"C:\Users\kirkwood\eclipse-workspace\test-preprocessor\Build\testclient\mutation-testing send by the student get wap.zip\"" http://localhost:8080/api/submissions
+pause

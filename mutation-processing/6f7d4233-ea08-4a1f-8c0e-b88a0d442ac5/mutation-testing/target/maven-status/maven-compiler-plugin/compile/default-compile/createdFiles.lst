@@ -1,0 +1,3 @@
+com\kenany\mutationtesting\service\FooService.class
+com\kenany\mutationtesting\service\UserService.class
+com\kenany\mutationtesting\MutationTestingWithSpringApplication.class

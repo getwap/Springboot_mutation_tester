@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kenany.mutationtesting.MutationTestingWithSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.816 s - in com.kenany.mutationtesting.MutationTestingWithSpringApplicationTests

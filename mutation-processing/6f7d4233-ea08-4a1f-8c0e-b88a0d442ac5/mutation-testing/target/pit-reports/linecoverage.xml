@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='com.kenany.mutationtesting.service.FooService' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='2'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='1'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooServiceTest' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooServiceTest' method='shouldReturn1()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='6'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturn1()]'/>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='3'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooServiceTest' method='shouldReturnNegate1()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.FooService' method='foo(ZZ)I' number='5'><tests>
+<test name='com.kenany.mutationtesting.service.FooServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.FooServiceTest]/[method:shouldReturnNegate1()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='isGreaterThanTen(I)Z' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTen()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTenFalse()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='isGreaterThanTen()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTen()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTen()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTenFalse()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzBuzzIfDivisibleBy15()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='isGreaterThanTen(I)Z' number='2'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTen()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTen()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTenFalse()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzBuzzIfDivisibleBy15()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='isGreaterThanTen(I)Z' number='1'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTenFalse()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='isGreaterThanTenFalse()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:isGreaterThanTenFalse()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='5'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='4'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzBuzzIfDivisibleBy15()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='2'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='shouldReturnBuzzIfDivisibleBy5()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnBuzzIfDivisibleBy5()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='shouldReturnFizzBuzzIfDivisibleBy15()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzBuzzIfDivisibleBy15()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='1'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzBuzzIfDivisibleBy15()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='shouldReturnFizzIfDivisibleBy3()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='3'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnFizzIfDivisibleBy3()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserService' method='fizzBuzz(I)Ljava/lang/String;' number='6'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+<block classname='com.kenany.mutationtesting.service.UserServiceTest' method='shouldReturnTheNumberAsString()V' number='0'><tests>
+<test name='com.kenany.mutationtesting.service.UserServiceTest.[engine:junit-jupiter]/[class:com.kenany.mutationtesting.service.UserServiceTest]/[method:shouldReturnTheNumberAsString()]'/>
+</tests>
+</block>
+</coverage>
